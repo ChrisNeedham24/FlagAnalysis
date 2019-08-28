@@ -1,5 +1,5 @@
 # FlagAnalysis
-A project analysing the intricacies of the flags of countries, and determining if specific features of flags can be used to determine other features.
+A data science project analysing the intricacies of the flags of countries, and determining if specific features of flags can be used to determine other features.
 
 # INSTRUCTIONS FOR RUNNING
 To execute the iPython file, simply open the file in Jupyter Notebook and select 'Cell' from the toolbar, and then 'Run All'.
